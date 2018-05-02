@@ -1,0 +1,6 @@
+.layout{
+  -fx-padding: 10;
+  -fx-spacing: 8;
+  -fx-background-image: url("water.jpg");
+  -fx-background-size: 100%;
+}
